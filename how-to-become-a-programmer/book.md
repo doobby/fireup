@@ -4,7 +4,7 @@ tags: how-to
 ---
 
 ## What is Computer Programming?
-## Why Should I Become a Programmer?
+## Why Should I Become a Programmer?  by rbw
 ## What Are Some Reasons Not to Become a Programmer?
 ## What are the Different “Worlds” of Programming?
 ## What Programming Language Should I Learn?
