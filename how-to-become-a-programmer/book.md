@@ -3,6 +3,13 @@ title: How to Become a Programmer Everything (You Need to Know to Start Making M
 tags: how-to
 ---
 
+
+## 进度
+
+|章节| 领取 | 翻译进度 | 校验完成 |
+|---|------|---------|--------|
+|Why should I become a programmer| reborn| 0% | no |
+
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  by rbw
 ## What Are Some Reasons Not to Become a Programmer?
