@@ -9,6 +9,7 @@ tags: how-to
 |章节| 领取 | 翻译进度 | 校验完成 |
 |---|------|---------|--------|
 |Why should I become a programmer| reborn| 0% | no |
+|How Do I Become a Great Programmer?| larryzju| 0%| no |
 
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  by rbw
