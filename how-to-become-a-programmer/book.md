@@ -6,10 +6,11 @@ tags: how-to
 
 ## 进度
 
-|章节| 翻译人 | 翻译进度 | 校验人 | 校验进度 |
-|---|------|---------|--------|--------|
-|Why should I become a programmer| reborn| 0% |  | 0% |
-|How Do I Become a Great Programmer?| larryzju| 100% |  | 0% |
+| chapter                             | translator | translation process | verifier | verify process |
+|-------------------------------------|------------|---------------------|----------|----------------|
+| Why should I become a programmer    | reborn     | 0%                  |          | 0%             |
+| How Do I Become a Great Programmer? | larryzju   | 100%                |          | 0%             |
+| Advanced Resources                  | larryzju   | 100%                |          | 0%             |
 
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  by rbw
@@ -64,5 +65,17 @@ tags: how-to
    记住，编程只是真正工作的一部分
 
 ## Beginning Resources
-## Advanced Resources
+## 高阶参考资料
+
+下面列出的资料主要针对语言之上的概念和思想，适合在已经有了对编程比较扎实的了解后（通常是半年到一年之后）阅读
+
+* [The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/gp/product/020161622X?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=020161622X) ([程序员修炼之道](https://book.douban.com/subject/5387402/))
+* [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/gp/product/0735619670?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0735619670) ([代码大全](https://book.douban.com/subject/1477390/))
+* [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/gp/product/0201485672?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201485672) ([重构:改善既有代码的设计](https://book.douban.com/subject/1229923/))
+* [Rapid Development: Taming Wild Software Schedules](http://www.amazon.com/gp/product/1556159005?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1556159005) ([快速软件开发：有效控制与完成进度计划](https://book.douban.com/subject/1007738/))
+* [Peopleware: Productive Projects and Teams](http://www.amazon.com/gp/product/0932633439?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0932633439) ([人件](https://book.douban.com/subject/1108725/))
+* [Software Requirements](http://www.amazon.com/gp/product/0735618798?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0735618798) ([软件需求](https://book.douban.com/subject/26859001/))
+* [Software Estimation: Demystifying the Black Art](http://www.amazon.com/gp/product/0735605351?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0735605351) (软件估计：黑魔法解密)
+
+
 ## Frequently Asked Questions (FAQ)
