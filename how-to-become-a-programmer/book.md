@@ -6,11 +6,12 @@ tags: how-to
 
 ## 进度
 
-| chapter                             | translator | translation process | verifier | verify process |
-|-------------------------------------|------------|---------------------|----------|----------------|
-| Why should I become a programmer    | reborn     | 0%                  |          | 0%             |
-| How Do I Become a Great Programmer? | larryzju   | 100%                |          | 0%             |
-| Advanced Resources                  | larryzju   | 100%                |          | 0%             |
+| chapter                                    | translator | translation process | verifier | verify process |
+|--------------------------------------------|------------|---------------------|----------|----------------|
+| Why should I become a programmer           | reborn     | 0%                  |          | 0%             |
+| Do I Have to Know Math to be a Programmer? | larryzju   | 100%                |          | 0%             |
+| How Do I Become a Great Programmer?        | larryzju   | 100%                |          | 0%             |
+| Advanced Resources                         | larryzju   | 100%                |          | 0%             |
 
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  by rbw
@@ -22,7 +23,16 @@ tags: how-to
 ## I Just Graduated from School, How Can I Get Experience?
 ## How Can I Become a Programmer Without Going to College?
 ## What About Offshoring – Will I have a Job in 5 years?
-## Do I Have to Know Math to be a Programmer?
+## 编程需要先学习数学吗？
+
+编程不一定要非常擅长数学，但编程的许多思想都来源于代数学。
+
+如果你要开发游戏，数学和物理知识还是必不可少的，至少应该有大学数学的水平。而要开发帐务系统，你需要的只是简单的加减类的数学知识。
+
+在我看来如果擅长数学学习并且喜欢解决逻辑问题，则写代码也更顺利，能坚持走更远更长。你可以试试这本书 [how to move Mount Fuji](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FHow-Would-Move-Mount-Fuji%2Fdp%2F0316778494%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1174413411%26sr%3D8-1&tag=softwarbyrob-20&linkCode=ur2&camp=1789&creative=9325) （微软的智力题集锦），需要培养特别的思考方式。
+
+对数学越了解，那么解决问题时收获的快乐越多。但不要舍本求末，对于一个代码都没写过的人，让他去先学数学无疑是没有意义的。
+
 ## How Much Money Can I Make?
 ## 如何成为优秀的程序员？
 
