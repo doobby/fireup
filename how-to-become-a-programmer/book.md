@@ -12,14 +12,37 @@ tags: how-to
 | Do I Have to Know Math to be a Programmer? | larryzju   | 100%                |          | 0%             |
 | How Do I Become a Great Programmer?        | larryzju   | 100%                |          | 0%             |
 | Advanced Resources                         | larryzju   | 100%                |          | 0%             |
-| Where Do I Start?                          | O0lele0O   | 0%                  |          | 0%             |
+| Where Do I Start?                          | O0lele0O   | 100%                |          | 0%             |
 
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  by rbw
 ## What Are Some Reasons Not to Become a Programmer?
 ## What are the Different “Worlds” of Programming?
 ## What Programming Language Should I Learn?
-## Where Do I Start?
+## Where Do I Start?  从哪里开始？
+
+你已经知道了编程是什么，并且知道你为何想成为一名编程者。但从未写过一行代码（或者你写过，但不是从高中或者大学开始）。
+
+我是一名自学编程者，但我同样获得了计算机工程师学位，因此我具有双重经验。书籍学习是从实践方面告诉你如何编程。在大学中学习编程是告诉你为何这样做的理论依据。
+
+考虑到这一点，如果我从今天开始学习，我将遵循以下步骤：
+
+1. 购买[ Beginning ASP.NET 3.5: In C# and VB ](http://www.amazon.com/gp/product/047018759X?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=047018759X) ，从头至尾阅读，实践书本中所有的编程练习。当你完成时，你将能很好的构建一个基础SAP.NET网络应用程序。
+2. 挑选一个小项目，自己构建它。范例包含：一个在线切换的存储器⭕️，一个基于网络的联系管理器⭕️，或者一个时间跟踪应用程序。不用担心它们的长相，当下只需要关心它们的功能。编写并且去验证。
+3. 一旦完成了功能，则开始关注它的长相设计。
+4. 上传到一个主机账户，让它在互联网“活”起来。现在你便拥有了.NET编程经验，同时也为潜在的雇主展示了一个在线的应用程序。
+
+这是万千道路中的一条你可遵循的道路来获取编程经验。我选择.NET是因为现在有巨大的.NET开发者需求。如果你对PHP开发更有兴趣，购买一本PHP相关书籍比如 [ Beginning PHP and MySQL: From Novice to Professional  ](https://www.amazon.com/gp/product/1590598628?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590598628) ，遵循同样的步骤去学习。
+
+对于游戏或者桌面开发者，坚持上面的会有很大的变化⭕️。方法步骤是不变的，但是同类的书籍和工程却各不相同。
+
+上面的步骤完成了以下内容：
+
+1. 让你编码⭕️。没有什么比阅读学习六个月编码更值得拥有。你应该尽快开始编码。
+2. 你将学习一种畅销的语言。真实应用是使用ASP.NET 和 PHP 构建的。学习其中一个语言很有可能在未来几个月让你获得一份工作。
+3. 你将建造一个公示块。它可能不是你见过最性感的事，但是它可能是为一个潜在雇主演示的应用程序，同时也将包含简单的代码示范。
+4. 完成了步骤2，你将清楚是否喜欢编程。此时据我所知，大多数编程者将不愿意放下书本，废寝忘食的思考它直到完成。如果你发现自己恐惧坐在电脑前花时间来构建找你的工程…很有可能编程并不适合你。当然，试着区分工作疲惫或者缺乏时间与消极怠工的调调⭕️。
+
 ## I’ve Built a Project and Decided I Like Programming, What Next?
 ## I Just Graduated from School, How Can I Get Experience?
 ## How Can I Become a Programmer Without Going to College?
