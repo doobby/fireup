@@ -7,11 +7,12 @@ tags: how-to
 ## 进度
 
 | chapter                                    | translator | translation process | verifier | verify process |
-|--------------------------------------------|------------|---------------------|----------|----------------|
+| ------------------------------------------ | ---------- | ------------------- | -------- | -------------- |
 | Why should I become a programmer           | reborn     | 0%                  |          | 0%             |
 | Do I Have to Know Math to be a Programmer? | larryzju   | 100%                |          | 0%             |
 | How Do I Become a Great Programmer?        | larryzju   | 100%                |          | 0%             |
 | Advanced Resources                         | larryzju   | 100%                |          | 0%             |
+| Where Do I Start?                          | O0lele0O   | 0%                  |          | 0%             |
 
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  by rbw
