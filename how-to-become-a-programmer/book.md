@@ -24,7 +24,8 @@ tags: how-to
 | Beginning Resources                                             |            |                     |          |                |
 | Advanced Resources                                              | larryzju   | 100%                |          | 0%             |
 | What Are Some Reasons Not to Become a Programmer?               | reborn1867 | 0%                  |          | 0%             |
-| FAQ                                                             |            |                     |          |                |
+| FAQ                                                             | larryzju   | 100%                |          | 0%             |
+
 
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  为什么我要成为一名程序员？
@@ -239,4 +240,92 @@ Dice.com的一份研究表明真的存在着上千个程序员职位缺口（截
 * [Software Estimation: Demystifying the Black Art](http://www.amazon.com/gp/product/0735605351?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0735605351) (软件估计：黑魔法解密)
 
 
-## Frequently Asked Questions (FAQ)
+## FAQ
+### 如何成为一个 .NET 程序员
+
+买任意本我之前提到的书，从头读到尾，实现一个动态网站。这是最高效的学习语言的方法，比你花几千块参加培训要有用的多。
+
+### Mac 电脑上如何开始编程实践
+
+Mac 电脑基于 UNIX，可以运行任何兼容 UNIX 的编程语言。本书中提到的 PHP，Ruby，Java 和 Perl 都可以用
+
+个人建议你使用 Ruby 或者 PHP。如果你想做游戏，可以使用 C++（实话说这门语言相当难以上手），可以参考 [Sams Teach Yourself C++ in 21 Days](http://www.amazon.com/gp/product/0672327112?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0672327112)
+
+### 我想以程序设计为第二职业，如何快速上手？
+
+如果你已经有工作了，那么应该考虑如何与当下的工作结合。例如，如果你是在大公司做财务相关工作，很有可能你用的软件就是一些程序员在家里写出来的。你可以与那些软件的 CTO 或 CIO 多打交道，请教他们是否能带你入坑。当然你需要提前自学编程，详细见前文。
+
+在日常使用 Excel 或 Access 中，你也可以发挥你的程序设计能力，其中涉及到很多高端的编程和数据库知识
+
+### 哪种编程语言最简单、最易上手？
+
+Visual Basic（现在改名为 VB.NET）简单易学，同时也足够强大。你可以用更早的语言如 Pascal 或 BASIC，但这些语言已经不怎么被使用了，为了实用不建议学习。
+
+VB.NET 在 ASP.NET 中常用，你可以看这本 [Beginning ASP.NET 3.5](http://www.amazon.com/gp/product/047018759X?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=047018759X)，学习如何使用 VB.NET 和 C# 来构建动态网页
+
+### 想成为系统开发程序员，应该学习什么语言
+
+系统软件与计算机硬件相关，通常以服务形式提供，也就是说不是面向普通用户的。例如磁盘碎片清理或者设置驱动开发等工作。作为系统开发人员，你需要学习 C 或者 C++
+
+### 我想成为优秀程序员，但担心没有天赋，是否要坚持？
+
+这个问题不好回答。我认为你应该试试看你是否真的喜欢编程。如果在起步阶段遇到很大的困难，那也不必勉强。作为程序员，你会经常面对一些负面的情况，如不懂事的老板，无止境地加班，长期坐在电脑前面。没有爱好是很难计坚持下来的。
+
+### 针对点对点程序（Peer to peer）开发有没有好的建议？
+
+不同于通常的 C/S 架构，点对点是去中心服务器的，应用之间可以相互通信，这类应该如 Napster 或其它即时通讯工具。
+
+.NET 和 Java 都可以用于这类开发。.NET（C# 或 VB.NET）可以在 Windows 系统上运行，而 Java 相对上手困难一些，但可以在很多系统上运行（Windows,Linux,Mac 等）
+
+
+### 什么是敏捷开发（Agile Development）？
+
+你可能经常听到敏捷开发这个词，维基百科是这样定义的
+
+> 敏捷开发是指一类软件开发方式。敏捷开发方式通常提倡：经常性的自省和改良项目管理方式；鼓励团队合作、自我组织和统计的领导方式；一系列快速迭代生成高质量软件的最佳实践方式；将开发与用户需求以及公司前景统一起来的商业动作方式
+
+换种方式来说，敏捷开发要求你不要一开始就设计十分详细的规划，并一成不变地执行计划，而应该以更灵活、自由的方式进行
+
+### 在开始一个项目前是否应该在纸面上写好规划？
+
+在项目开始前，你可以写一个规划设计文档，简洁粗糙也可以。但我不建议你把代码写在纸上，再照着敲进电脑。许多年前也许有人这么做，但那都是过去了。
+
+### 如何制作一个电脑游戏？
+
+有两条路径：一种是正统的方式，去认真学习使用 C++；另一种取巧的方式是去学习使用微软的 XNA 平台（使用 C# 在Windows 平台和 Xbox360 平台开发）
+
+个人建议即使学习 XNA 来编写游戏，也应该在后期学习 C++ 并在正规的游戏公司下找份工作
+
+可以参考的资料如下
+
+* XNA
+  * [XNA Game Studio Express: Developing Games for Windows and the Xbox 360](http://www.amazon.com/gp/product/1598633686?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1598633686)
+  * [Beginning XNA 2.0 Game Programming](http://www.amazon.com/gp/product/1590599241?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590599241)
+  * [XNA 2.0 Game Programming Recipes: A Problem-Solution Approach](http://www.amazon.com/gp/product/159059925X?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=159059925X)
+* C++
+  * [Beginning C ++ Through Game Programming](http://www.amazon.com/gp/product/1598633600?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1598633600)
+  * [Introduction to Game Programming with C++](http://www.amazon.com/gp/product/1598220322?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1598220322)
+  
+### 学习编程的最大收获是什么？
+
+对我来说最大的收获是能够在任何国家地区生活，赚足够的钱，为自己工作，从无到有的创建新的事物
+
+### 如何找家软件公司来培养我的能力？
+
+我在之前的文章 [Does Anyone Know of a Real Software Apprenticeship?](http://www.softwarebyrob.com/2008/07/29/does-anyone-know-of-a-real-software-apprenticeship/) 中收到一些建议。有一些实习职位，但很难找到真正能教导你如何编程的实习工作。大多数情况下，你会被安排一个项目，扔给一本语言相关的书，就这样而已。
+
+我还没有听过有人做广告来招收程序员学徒的，多数情况下都是随着项目接受资深程序员的指导。因此我的建议是你在面试时去打听打听公司有没有新人培养文化。
+
+### 用使用计算机的人成为程序员有多困难？相比于那些极客
+
+当我成为专业程序员时，我也不能被称为极客。你不需要成为极客才能写代码，而且日常的写代码工作与极客如关，如网页设计、工具开发等
+
+也许我现在可以被称为极客，所以小心我带坏你们 ^_^
+
+### 计算机科学（Computer Science）与编程（Programming）有什么区别？
+
+在我的 [Advice on How to Become a Programmer](http://www.softwarebyrob.com/2007/03/20/advice-on-how-to-become-a-programmer/) 一文中说得很清楚了
+
+> 计算机科学不是编程，就像材料科学不同于建筑一样。不幸的是，许多学生在完成一半学业时也分不清其中区别。如果你只沉溺于纯粹的数学理论或复杂模型建立，那你应该从事计算机科学。如果你喜欢写代码，那就从事编程开发吧
+
+计算机科学主要处理计算机软件理论以及其法。理论上你可以取得一个计算机科学的学历，但没有也不会写一行代码
