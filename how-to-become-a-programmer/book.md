@@ -6,17 +6,18 @@ tags: how-to
 
 ## 进度
 
-| chapter                                                 | translator | translation process | verifier | verify process |
-| -----------------------------------------------         | ---------- | ------------------- | -------- | -------------- |
-| What is Computer Programming?                           | lost0041   | 0%                  |          | 0%             |
-| Why should I become a programmer                        | reborn1867 | 0%                  |          | 0%             |
-| Do I Have to Know Math to be a Programmer?              | larryzju   | 100%                |          | 0%             |
-| How Do I Become a Great Programmer?                     | larryzju   | 100%                |          | 0%             |
-| Advanced Resources                                      | larryzju   | 100%                |          | 0%             |
-| Where Do I Start?                                       | O0lele0O   | 100%                |          | 0%             |
-| What are the Different "Worlds" of Programming?         | O0lele0O   | 0%                  |          | 0%             |
-| What Are Some Reasons Not to Become a Programmer?       | reborn1867 | 0%                  |          | 0%             |
-| How Can I Become a Programmer Without Going to College? | larryzju   | 100%                |          | 0%             |
+| chapter                                                         | translator | translation process | verifier | verify process |
+| -----------------------------------------------                 | ---------- | ------------------- | -------- | -------------- |
+| What is Computer Programming?                                   | lost0041   | 0%                  |          | 0%             |
+| Why should I become a programmer                                | reborn1867 | 0%                  |          | 0%             |
+| Do I Have to Know Math to be a Programmer?                      | larryzju   | 100%                |          | 0%             |
+| How Do I Become a Great Programmer?                             | larryzju   | 100%                |          | 0%             |
+| Advanced Resources                                              | larryzju   | 100%                |          | 0%             |
+| Where Do I Start?                                               | O0lele0O   | 100%                |          | 0%             |
+| I've Built a Project and Decided I Like Programming, What Next? | larrzju    | 100%                |          | 0%             |
+| What are the Different "Worlds" of Programming?                 | O0lele0O   | 0%                  |          | 0%             |
+| What Are Some Reasons Not to Become a Programmer?               | reborn1867 | 0%                  |          | 0%             |
+| How Can I Become a Programmer Without Going to College?         | larryzju   | 100%                |          | 0%             |
 
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  为什么我要成为一名程序员？
@@ -111,7 +112,40 @@ Dice.com的一份研究表明真的存在着上千个程序员职位缺口（截
 3. 你将建造一个公示块。它可能不是你见过最性感的事，但是它可能是为一个潜在雇主演示的应用程序，同时也将包含简单的代码示范。
 4. 完成了步骤2，你将清楚是否喜欢编程。此时据我所知，大多数编程者将不愿意放下书本，废寝忘食的思考它直到完成。如果你发现自己恐惧坐在电脑前花时间来构建找你的工程…很有可能编程并不适合你。当然，试着区分工作疲惫或者缺乏时间与消极怠工的调调⭕️。
 
-## I’ve Built a Project and Decided I Like Programming, What Next?
+## 已试着做过项目并想成为程序开发人员，下一步如何做？
+
+有很多方式可以来拓展你的编程知识
+
+* 边学边干
+
+  可以找份编程的工作（即便只有 $10 每小时的报酬）。就学习来说，全职开发一个月能抵得上一年的业余开发。
+  
+* 阅读
+
+  通过阅读来提高编程能力是非常重要的，一个月读 1-2 本书对于新手是必须的（请看后面的书籍推荐），同时也可以针对性地教他们一些高级开发技能
+
+* 在线学习
+
+  网上可以轻易找到各种编程问题的解答，但我更倾向于通过自己从头系统学习来理解一个新的概念。
+  
+  语言自己网站可以了解一下，如 http://www.php.net/, http://www.asp.net/, http://java.sun.com/ 
+  
+* 学徒
+
+  成为一个优秀程序员，最好的方式莫过于在资深优秀员的带领下学习，他们不仅能教会你基础知识，还会深入地传授经年积累的经验。但找到一个名师还是相当困难的
+  
+* 大学
+
+  我的亲身经历告诉我大学教育与实际工作开发有很大的区别。精通时间复杂度评估对实际工作意义不大。大学教育对于提高理论修养很有帮助（有助于你成于高阶程序员），但还是比不上头几年工作实践的作用
+  
+* 专业培训
+
+  我认识一个出身于培训学校的程序员。虽然对语言足够掌握，有比较强动手能力，但在理论和设计方面颇为不足。
+  
+  她的代码偏重实用，有大量低效暴力解决问题的方式，写出的代码既缺少设计也不好维护。这是理论知识与解决问题实践的平衡出了问题。
+  
+  也许只是个例，不应就此否定培训学校。但我想可能优秀程序员并不是培训课教出来的。像网管之类也许才是培训学校的专长
+  
 ## I Just Graduated from School, How Can I Get Experience?
 ## 没上过大学可以做程序员吗？
 
