@@ -6,16 +6,17 @@ tags: how-to
 
 ## 进度
 
-| chapter                                         | translator | translation process | verifier | verify process |
-| ----------------------------------------------- | ---------- | ------------------- | -------- | -------------- |
-| What is Computer Programming?                   | lost0041   | 0%                  |          | 0%             |
-| Why should I become a programmer                | reborn1867 | 0%                  |          | 0%             |
-| Do I Have to Know Math to be a Programmer?      | larryzju   | 100%                |          | 0%             |
-| How Do I Become a Great Programmer?             | larryzju   | 100%                |          | 0%             |
-| Advanced Resources                              | larryzju   | 100%                |          | 0%             |
-| Where Do I Start?                               | O0lele0O   | 100%                |          | 0%             |
-| What are the Different “Worlds” of Programming? | O0lele0O   | 0%                  |          | 0%             |
-| What Are Some Reasons Not to Become a Programmer?| reborn1867| 0%                  |          | 0%             |
+| chapter                                                 | translator | translation process | verifier | verify process |
+| -----------------------------------------------         | ---------- | ------------------- | -------- | -------------- |
+| What is Computer Programming?                           | lost0041   | 0%                  |          | 0%             |
+| Why should I become a programmer                        | reborn1867 | 0%                  |          | 0%             |
+| Do I Have to Know Math to be a Programmer?              | larryzju   | 100%                |          | 0%             |
+| How Do I Become a Great Programmer?                     | larryzju   | 100%                |          | 0%             |
+| Advanced Resources                                      | larryzju   | 100%                |          | 0%             |
+| Where Do I Start?                                       | O0lele0O   | 100%                |          | 0%             |
+| What are the Different "Worlds" of Programming?         | O0lele0O   | 0%                  |          | 0%             |
+| What Are Some Reasons Not to Become a Programmer?       | reborn1867 | 0%                  |          | 0%             |
+| How Can I Become a Programmer Without Going to College? | larryzju   | 100%                |          | 0%             |
 
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  为什么我要成为一名程序员？
@@ -112,7 +113,25 @@ Dice.com的一份研究表明真的存在着上千个程序员职位缺口（截
 
 ## I’ve Built a Project and Decided I Like Programming, What Next?
 ## I Just Graduated from School, How Can I Get Experience?
-## How Can I Become a Programmer Without Going to College?
+## 没上过大学可以做优秀员吗？
+
+根据美国劳工统计局数据，大约有 [60% 的 web 开发者](http://www.itworld.com/IWD010507cajob) 或者 [68% 的程序员](http://www.bls.gov/oco/ocos110.htm)（包括 web 开发者）具有四年以上的学历。
+
+没有大学学历可以当程序员吗？当然可以！3/10 的程序员以及 4/10 的 web 开发者没有本科学历，即使你没有学历证书，也不影响你喜爱编程。
+
+当我雇佣一个开发者时，关注的内容有这些（重要性从高到低）
+
+1. 专业经验
+2. 证书
+3. 大学学历
+4. 对开源项目的贡献
+5. 博客、文章、论文以及演讲
+
+从这方面讲，空有证书而缺少专业技能和经验是致命的不足。与其花费大量的时间和精力去考取一个你不了解的技术的认证，不如去学习怎样写代码。去开发一个简单的项目，试着去向开源项目作贡献。最后再考虑证书的事情。
+
+业余项目的复杂度和大小可能为你在新手程序员位置上的竞争带来不小的优势，能在一定程度上消弥在学历与证书上的劣势。新手程序员的竞争足够激烈，我也知道很多优势的程序员并非科班出身（可能由其它行业转行作程序员），或只有专科教育，或者仅出于爱好编程。希望这能为你的程序员之路规划有些启发
+
+
 ## What About Offshoring – Will I have a Job in 5 years?
 ## 编程需要先学习数学吗？
 
