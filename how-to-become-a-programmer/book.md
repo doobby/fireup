@@ -12,7 +12,7 @@ tags: how-to
 | Why should I become a programmer                                | reborn1867 | 0%                  |          | 0%             |
 | What Are Some Reasons Not to Become a Programmer?               |            |                     |          |                |
 | What are the Different "Worlds" of Programming?                 | O0lele0O   | 0%                  |          | 0%             |
-| What Programming Language Should I Learn?                       | kdsji      | 0%                  |          | 0%             |
+| What Programming Language Should I Learn?                       | kdsji      | 100%                |          | 0%             |
 | Where Do I Start?                                               | O0lele0O   | 100%                |          | 0%             |
 | I've Built a Project and Decided I Like Programming, What Next? | larrzju    | 100%                |          | 0%             |
 | I Just Graduated from School, How Can I Get Experience?         |            |                     |          |                |
