@@ -6,26 +6,24 @@ tags: how-to
 
 ## 进度
 
-| chapter                                                         | translator | translation process | verifier | verify process |
-| -----------------------------------------------                 | ---------- | ------------------- | -------- | -------------- |
-| What is Computer Programming?                                   | lost0041   | 0%                  |          | 0%             |
-| Why should I become a programmer                                | reborn1867 | 100%                |          | 0%             |
-| What Are Some Reasons Not to Become a Programmer?               | O0lele0O   | 0                   |          |                |
-| What are the Different "Worlds" of Programming?                 | O0lele0O   | 100%                |          | 0%             |
-| What Programming Language Should I Learn?                       | kdsji      | 100%                |          | 0%             |
-| Where Do I Start?                                               | O0lele0O   | 100%                |          | 0%             |
+| chapter                                                      | translator | translation process | verifier | verify process |
+| :----------------------------------------------------------- | ---------- | ------------------- | -------- | -------------- |
+| What is Computer Programming?                                | lost0041   | 0%                  |          | 0%             |
+| Why should I become a programmer                             | reborn1867 | 100%                |          | 0%             |
+| What Are Some Reasons Not to Become a Programmer?            | reborn1867 | 100%                | O0lele0O | 50%            |
+| What are the Different "Worlds" of Programming?              | O0lele0O   | 100%                |          | 0%             |
+| What Programming Language Should I Learn?                    | kdsji      | 100%                |          | 0%             |
+| Where Do I Start?                                            | O0lele0O   | 100%                |          | 0%             |
 | I've Built a Project and Decided I Like Programming, What Next? | larrzju    | 100%                |          | 0%             |
-| I Just Graduated from School, How Can I Get Experience?         | reborn867  | 0%                  |          | 0%             |
-| How Can I Become a Programmer Without Going to College?         | larryzju   | 100%                |          | 0%             |
-| What About Offshoring – Will I have a Job in 5 years?           |            |                     |          |                |
-| Do I Have to Know Math to be a Programmer?                      | larryzju   | 100%                |          | 0%             |
-| How Much Money Can I Make?                                      | kdsji      | 0%                  |          | 0%             |
-| How Do I Become a Great Programmer?                             | larryzju   | 100%                |          | 0%             |
-| Beginning Resources                                             |            |                     |          |                |
-| Advanced Resources                                              | larryzju   | 100%                |          | 0%             |
-| What Are Some Reasons Not to Become a Programmer?               | reborn1867 | 100%                |          | 0%             |
-| FAQ                                                             | larryzju   | 100%                |          | 0%             |
-
+| I Just Graduated from School, How Can I Get Experience?      | reborn867  | 0%                  |          | 0%             |
+| How Can I Become a Programmer Without Going to College?      | larryzju   | 100%                |          | 0%             |
+| What About Offshoring – Will I have a Job in 5 years?        |            |                     |          |                |
+| Do I Have to Know Math to be a Programmer?                   | larryzju   | 100%                |          | 0%             |
+| How Much Money Can I Make?                                   | kdsji      | 0%                  |          | 0%             |
+| How Do I Become a Great Programmer?                          | larryzju   | 100%                |          | 0%             |
+| Beginning Resources                                          |            |                     |          |                |
+| Advanced Resources                                           | larryzju   | 100%                |          | 0%             |
+| FAQ                                                          | larryzju   | 100%                |          | 0%             |
 
 ## What is Computer Programming?
 ## Why Should I Become a Programmer?  为什么我要成为一名程序员？
@@ -106,8 +104,9 @@ Dice.com的一份研究表明真的存在着上千个程序员职位缺口（截
 
 当然，这也可以成为一些人做程序员的的动力，他们可以把自己每天的工作安排的很好。优秀的IT经理会在商业世界中获得很多机会这是肯定的。
 
-### 加班
-情况因事而异因时而异，但由于编程都有时间节点，总有你需要加班的时候。对程序员来说加班几乎是没有加班费的。一些工作甚至把这列为日常，大多数工作每隔一两个月就会要求加班。（苦逼）
+### 加班 
+
+情况因事而异因时而异，但由于编程都有时间节点，总有你需要加班的时候。对程序员来说加班几乎是没有加班费的。一些工作甚至把这列为日常，大多数工作每隔一两个月就会要求加班。（苦逼）😔
 
 ## What are the Different “Worlds” of Programming?编程“世界”都有哪些不同？
 
