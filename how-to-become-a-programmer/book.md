@@ -18,7 +18,7 @@ tags: how-to
 | I've Built a Project and Decided I Like Programming, What Next? | larrzju    | 100%                |          | 0%             |
 | I Just Graduated from School, How Can I Get Experience?      | reborn867  | 0%                  |          | 0%             |
 | How Can I Become a Programmer Without Going to College?      | larryzju   | 100%                |          | 0%             |
-| What About Offshoring – Will I have a Job in 5 years?        |            |                     |          |                |
+| What About Offshoring – Will I have a Job in 5 years?        | lost0041   | 0%                  |          |                |
 | Do I Have to Know Math to be a Programmer?                   | larryzju   | 100%                |          | 0%             |
 | How Much Money Can I Make?                                   | kdsji      | 100%                |          | 0%             |
 | How Do I Become a Great Programmer?                          | larryzju   | 100%                |          | 0%             |
