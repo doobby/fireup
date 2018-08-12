@@ -19,7 +19,7 @@ tags: how-to
 | How Can I Become a Programmer Without Going to College?      | larryzju   | 100%                |          | 0%             |
 | What About Offshoring – Will I have a Job in 5 years?        |            |                     |          |                |
 | Do I Have to Know Math to be a Programmer?                   | larryzju   | 100%                |          | 0%             |
-| How Much Money Can I Make?                                   | kdsji      | 0%                  |          | 0%             |
+| How Much Money Can I Make?                                   | kdsji      | 100%                |          | 0%             |
 | How Do I Become a Great Programmer?                          | larryzju   | 100%                |          | 0%             |
 | Beginning Resources                                          |            |                     |          |                |
 | Advanced Resources                                           | larryzju   | 100%                |          | 0%             |
@@ -299,7 +299,16 @@ Ruby on Rails开发很热门（同时也很有趣）。如果我刚开始，我�
 
 对数学越了解，那么解决问题时收获的快乐越多。但不要舍本求末，对于一个代码都没写过的人，让他去先学数学无疑是没有意义的。
 
-## How Much Money Can I Make?
+## How Much Money Can I Make? 我可以赚多少钱？
+
+我从未和程序员一起工作过，除了一个年收入小于40000美元为非盈利组织工作的人。 That is straight out of college, entry level corporate development. (//TODO  前后矛盾，翻译有问题)
+
+我合作过的大部分初入行的码农都赚5到5.5万美元每年。中级开发人员的收入为6.5万至9万美元，高级开发人员的收入为8.5美元至15万美元（如果他们的能力非常出色的话，则会更多）。
+
+如果你成为一名自由开发人员，那么一名中级自由开发人员，每小时收费50-60美元，高级开发人员每小时收费60-80美元，领域内的专家每小时收费80-150美元（也就是说有受人尊敬的博客，发表文章，或有一些其他方面的专门市场）。
+
+这些是基于我的经验和大型技术中心（旧金山，洛杉矶，西雅图，纽约和波士顿）的企业薪资发展得出的一些大致正确的薪资范围。有关你所在地区的薪资范围，请访问[Salary.com](https://www.salary.com/)并在“薪资向导”中输入“程序员”和你的邮政编码，或在[Dice](http://www.dice.com/)上搜索你的邮政编码并查看开放的职位列表。
+
 ## 如何成为优秀的程序员？
 
 就我所知，每个人都有自己的成长路线。
