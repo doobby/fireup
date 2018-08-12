@@ -15,7 +15,7 @@ tags: how-to
 | What Programming Language Should I Learn?                       | kdsji      | 100%                |          | 0%             |
 | Where Do I Start?                                               | O0lele0O   | 100%                |          | 0%             |
 | I've Built a Project and Decided I Like Programming, What Next? | larrzju    | 100%                |          | 0%             |
-| I Just Graduated from School, How Can I Get Experience?         |            |                     |          |                |
+| I Just Graduated from School, How Can I Get Experience?         | reborn867  | 0%                  |          | 0%             |
 | How Can I Become a Programmer Without Going to College?         | larryzju   | 100%                |          | 0%             |
 | What About Offshoring – Will I have a Job in 5 years?           |            |                     |          |                |
 | Do I Have to Know Math to be a Programmer?                      | larryzju   | 100%                |          | 0%             |
@@ -23,7 +23,7 @@ tags: how-to
 | How Do I Become a Great Programmer?                             | larryzju   | 100%                |          | 0%             |
 | Beginning Resources                                             |            |                     |          |                |
 | Advanced Resources                                              | larryzju   | 100%                |          | 0%             |
-| What Are Some Reasons Not to Become a Programmer?               | reborn1867 | 0%                  |          | 0%             |
+| What Are Some Reasons Not to Become a Programmer?               | reborn1867 | 100%                |          | 0%             |
 | FAQ                                                             | larryzju   | 100%                |          | 0%             |
 
 
@@ -93,7 +93,22 @@ Dice.com的一份研究表明真的存在着上千个程序员职位缺口（截
 
 在那些时候编程可是很有趣的。。。是的，可能成为一个程序员是挺酷的。
 
-## What Are Some Reasons Not to Become a Programmer?
+## What Are Some Reasons Not to Become a Programmer? 有什么理由阻止你成为一名程序员
+
+### 如果你不喜欢编程
+如果你是一个优秀的程序员，你一周起码有40小时的编程时间（而且周末也会思考代码）。如果你不喜欢编程，这工作就不是你的菜。
+
+### 你必须持续提升自己的技能
+编程语言和技术每两三年就会改变，如果你没有足够持久的求知欲，编程也不是你的菜。优秀的码农会永远读书，活到老学到老。
+
+### 管理能力
+在公司里寻找一个优秀的管理者是困难的，这个问题在IT公司尤为突出。很多IT经理是程序员出身，所以他们比起管理员工本身更偏爱技术，IT公司的经理管出的烂摊子数不胜数。
+
+当然，这也可以成为一些人做程序员的的动力，他们可以把自己每天的工作安排的很好。优秀的IT经理会在商业世界中获得很多机会这是肯定的。
+
+### 加班
+情况因事而异因时而异，但由于编程都有时间节点，总有你需要加班的时候。对程序员来说加班几乎是没有加班费的。一些工作甚至把这列为日常，大多数工作每隔一两个月就会要求加班。（苦逼）
+
 ## What are the Different “Worlds” of Programming?编程“世界”都有哪些不同？
 
 不同的人拥有他们不同的软件“世界”。Joel Spolsky，他在知名博客[Joel on Software](https://www.joelonsoftware.com/)中的[定义](https://www.joelonsoftware.com/2002/05/06/five-worlds/)和我略有不同，不过基本观点相似。这里有我如何定义的六类软件世界：
