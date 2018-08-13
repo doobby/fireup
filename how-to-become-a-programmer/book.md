@@ -22,7 +22,7 @@ tags: how-to
 | Do I Have to Know Math to be a Programmer?                   | larryzju   | 100%                |          | 0%             |
 | How Much Money Can I Make?                                   | kdsji      | 100%                |          | 0%             |
 | How Do I Become a Great Programmer?                          | larryzju   | 100%                |          | 0%             |
-| Beginning Resources                                          | O0lele0O   | 0%                  |          | 0%             |
+| Beginning Resources                                          | O0lele0O   | 100%                |          | 0%             |
 | Advanced Resources                                           | larryzju   | 100%                |          | 0%             |
 | FAQ                                                          | larryzju   | 100%                |          | 0%             |
 
@@ -413,7 +413,44 @@ Ruby on Rails开发很热门（同时也很有趣）。如果我刚开始，我�
 
    记住，编程只是真正工作的一部分
 
-## Beginning Resources
+## 初阶参考资料
+
+浏览任何一个编程开发者书架，你将会看到大量覆盖各种技术主题的书籍。此外在互联网上，也有大量针对软件开发的优秀书籍资源。
+
+通常，来自Wrox、O’Reilly 和 Apress出版社的编程书籍拥有更高的质量。  
+
+以下的书籍是关于学习语言语法和基础编程理念的介绍。根据在“我应该学习什么编程语言”中的讨论，选择一本你喜欢的书籍。
+
+对于游戏开发，请查看下面FAQ章节的“如何制作一个电脑游戏”问答。
+
+### ASP.NET
+
+[Beginning ASP.NET 3.5 ](http://www.amazon.com/gp/product/047018759X?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=047018759X)
+
+[Beginning ASP.NET 3.5 in C# 2008 ](https://www.amazon.com/gp/product/1590598911?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590598911)
+
+
+
+### Ruby on Rails
+
+[Beginning Ruby on Rails ](https://www.amazon.com/Beginning-Ruby-Rails-Steve-Holzner/dp/0470069155/ref=sr_1_1?s=books&ie=UTF8&qid=1534122166&sr=1-1&keywords=Beginning+Ruby+on+Rails)
+
+[Beginning Ruby on Rails E-Commerce ](https://www.amazon.com/gp/product/1590597362?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590597362)
+
+
+
+### PHP
+
+[PHP 6 and MySQL 5 for Dynamic Web Sites: Visual QuickPro Guide ](https://www.amazon.com/gp/product/032152599X?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=032152599X)
+
+[PHP and MySQL Web Development ](https://www.amazon.com/gp/product/0672329166?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0672329166)
+
+### Java
+
+[Head First Java ](https://www.amazon.com/gp/product/0596009208?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596009208)
+
+[Beginning Programming with Java For Dummies ](https://www.amazon.com/gp/product/0764588745?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0764588745)
+
 ## 高阶参考资料
 
 下面列出的资料主要针对语言之上的概念和思想，适合在已经有了对编程比较扎实的了解后（通常是半年到一年之后）阅读
