@@ -433,7 +433,7 @@ Ruby on Rails开发很热门（同时也很有趣）。如果我刚开始，我�
 
 ### Ruby on Rails
 
-[Beginning Ruby on Rails ](https://www.amazon.com/Beginning-Ruby-Rails-Steve-Holzner/dp/0470069155/ref=sr_1_1?s=books&ie=UTF8&qid=1534122166&sr=1-1&keywords=Beginning+Ruby+on+Rails)
+[Beginning Ruby on Rails （Ruby on Rails 基础）](https://www.amazon.com/Beginning-Ruby-Rails-Steve-Holzner/dp/0470069155/ref=sr_1_1?s=books&ie=UTF8&qid=1534122166&sr=1-1&keywords=Beginning+Ruby+on+Rails)
 
 [Beginning Ruby on Rails E-Commerce ](https://www.amazon.com/gp/product/1590597362?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590597362)
 
@@ -443,13 +443,13 @@ Ruby on Rails开发很热门（同时也很有趣）。如果我刚开始，我�
 
 [PHP 6 and MySQL 5 for Dynamic Web Sites: Visual QuickPro Guide ](https://www.amazon.com/gp/product/032152599X?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=032152599X)
 
-[PHP and MySQL Web Development ](https://www.amazon.com/gp/product/0672329166?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0672329166)
+[PHP and MySQL Web Development(PHP和MySQL Web应用开发) ](https://www.amazon.com/gp/product/0672329166?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0672329166)
 
 ### Java
 
-[Head First Java ](https://www.amazon.com/gp/product/0596009208?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596009208)
+[Head First Java（深入浅出Java） ](https://www.amazon.com/gp/product/0596009208?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596009208)
 
-[Beginning Programming with Java For Dummies ](https://www.amazon.com/gp/product/0764588745?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0764588745)
+[Beginning Programming with Java For Dummies （开始编程与Java入门）](https://www.amazon.com/gp/product/0764588745?ie=UTF8&tag=softwarbyrob-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0764588745)
 
 ## 高阶参考资料
 
