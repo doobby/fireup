@@ -22,7 +22,7 @@ tags: how-to
 | Do I Have to Know Math to be a Programmer?                   | larryzju   | 100%                |          | 0%             |
 | How Much Money Can I Make?                                   | kdsji      | 100%                |          | 0%             |
 | How Do I Become a Great Programmer?                          | larryzju   | 100%                |          | 0%             |
-| Beginning Resources                                          |            |                     |          |                |
+| Beginning Resources                                          | O0lele0O   | 0%                  |          | 0%             |
 | Advanced Resources                                           | larryzju   | 100%                |          | 0%             |
 | FAQ                                                          | larryzju   | 100%                |          | 0%             |
 
