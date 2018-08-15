@@ -16,7 +16,7 @@ tags: how-to
 | What Programming Language Should I Learn?                    | kdsji      | 100%                |          | 0%             |
 | Where Do I Start?                                            | O0lele0O   | 100%                |          | 0%             |
 | I've Built a Project and Decided I Like Programming, What Next? | larrzju    | 100%                |          | 0%             |
-| I Just Graduated from School, How Can I Get Experience?      | reborn867  | 0%                  |          | 0%             |
+| I Just Graduated from School, How Can I Get Experience?      | reborn867  | 100%                |          | 0%             |
 | How Can I Become a Programmer Without Going to College?      | larryzju   | 100%                |          | 0%             |
 | What About Offshoring – Will I have a Job in 5 years?        | lost0041   | 0%                  |          |                |
 | Do I Have to Know Math to be a Programmer?                   | larryzju   | 100%                |          | 0%             |
