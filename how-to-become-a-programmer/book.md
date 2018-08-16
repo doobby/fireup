@@ -392,7 +392,7 @@ Ruby on Rails开发很热门（同时也很有趣）。如果我刚开始，我�
 
 ## How Much Money Can I Make? 我可以赚多少钱？
 
-我从未和程序员一起工作过，除了一个年收入小于40000美元为非盈利组织工作的人。 That is straight out of college, entry level corporate development. (//TODO  前后矛盾，翻译有问题)
+我从未和程序员一起工作过，除了一个年收入小于40000美元为非盈利组织工作的人。 *That is straight out of college, entry level corporate development.* :sos:
 
 我合作过的大部分初入行的码农都赚5到5.5万美元每年。中级开发人员的收入为6.5万至9万美元，高级开发人员的收入为8.5美元至15万美元（如果他们的能力非常出色的话，则会更多）。
 
