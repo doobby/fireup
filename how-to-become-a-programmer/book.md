@@ -18,7 +18,7 @@ tags: how-to
 | I've Built a Project and Decided I Like Programming, What Next? | larrzju    | 100%                |          | 0%             |
 | I Just Graduated from School, How Can I Get Experience?      | reborn867  | 100%                |          | 0%             |
 | How Can I Become a Programmer Without Going to College?      | larryzju   | 100%                |          | 0%             |
-| What About Offshoring – Will I have a Job in 5 years?        | lost0041   | 0%                  |          |                |
+| What About Offshoring – Will I have a Job in 5 years?        | lost0041   | 100%                |          | 0%             |
 | Do I Have to Know Math to be a Programmer?                   | larryzju   | 100%                |          | 0%             |
 | How Much Money Can I Make?                                   | kdsji      | 100%                |          | 0%             |
 | How Do I Become a Great Programmer?                          | larryzju   | 100%                |          | 0%             |
@@ -378,8 +378,26 @@ Ruby on Rails开发很热门（同时也很有趣）。如果我刚开始，我�
 
 业余项目的复杂度和大小可能为你在新手程序员位置上的竞争带来不小的优势，能在一定程度上消弥在学历与证书上的劣势。新手程序员的竞争足够激烈，我也知道很多优势的程序员并非科班出身（可能由其它行业转行作程序员），或只有专科教育，或者仅出于爱好编程。希望这能为你的程序员之路规划有些启发
 
+## 离岸外包-我能在5年内找到一份工作吗？
 
-## What About Offshoring – Will I have a Job in 5 years?
+如果你读过Thomas Friedman的[世界是平的：二十一世纪的简史](http://www.amazon.com/World-Flat-3-0-History-Twenty-first/dp/0312425074/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1227040542&sr=8-1)一书，你就会知道离岸外包的炒作--我们所有的编程工作和呼叫中心工作都将外包到海外--并非完全正确。
+
+离岸外包之所以受到了媒体巨大的关注，是因为它创造了一个畅销的故事，并且还有一些数据支持它。然而问题在于媒体的关注太过片面，这些数据从未显示离岸外包为美国创造了多少工作岗位，它们也倾向于逃避我们在美国对于熟练程序员的迫切需求。
+
+如果你跟随戴尔电脑公司进入它们的离岸外包呼叫中心，[你可能会听到](http://www.spiegel.de/international/business/offshore-backlash-luring-customers-with-local-call-centers-a-496396.html)：
+
+    ...由于收到各种客户投诉，内容从外国口音到支持工作的质量，它们甚至将呼叫中心撤回美国。
+
+各公司已经发现，虽然前端的离岸工作工资成本较低，但是这并不是真正的净收益，由于时差、沟通差异、缺少物理会议等其他问题造成的影响阻碍了它们离岸外包的野心。
+
+这并不是说离岸外包在我们的经济中不真实存在，事实上，很少有白领工作能够避免离岸外包。会计，电气工程，机械工程......都在某种程度上被外包。除非你打算成为首席执行官，行政助理（然而同样正在被虚拟助理接管），或者一份你必须亲临现场的工作，否则你的工作岗位都有被离岸外包的风险。
+
+甚至在当前的金融危机下，计算机和数学职业的[失业率](https://www.bls.gov/web/cpseea30.pdf)在2007年也比美国整体失业率低37%，在2008年10月低43%。另外，查看[此图表](http://feit.anu.edu.au/it/IT_Unemployment_Analysis.pdf)，2000年至2004年的数据显示，计算机行业的失业率以稳定的趋势持续大大低于美国的整体失业率。
+
+我们都知道世界正处于金融危机中，但本周我收到了3封来自招聘人员的电子邮件，询问我是否认识可以填补他们岗位空缺的.NET开发人员。另外，我为一个上星期刚收到资金的客户启动了一个新项目。事实上，总是有编程工作要做。
+
+离岸外包是真的吗？对。但是，在我们完善传送技术之前，对于熟练的开发者来说工作总是有的。
+
 ## 编程需要先学习数学吗？
 
 编程不一定要非常擅长数学，但编程的许多思想都来源于代数学。
