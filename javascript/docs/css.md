@@ -93,3 +93,48 @@ Find class elements in certain state, such as
 3. Child: `A > B`
 4. Adjacent sibling: `A + B`
 5. General sibling: `A ~ B`
+
+## Value Categories
+
+1. Numberic value (width, unitless integer)
+2. Percentage
+3. Color
+4. Coordinate Position
+5. Function (background, url, calc)
+
+## Length/Size Unit
+
+* absolute units
+  * px (Pixels)
+  * q, mm, cm, in
+  * pt (1/72 inch), pc (12 pt)
+* relative units
+  * em
+  * ex, eh
+  * rem
+  * vw, vh (relative to viewport)
+
+## Unitless Value
+
+1. "0"
+2. `line-weight`: as a multiply factor
+3. `animations-iteration-count`: as count
+
+## Percentage
+
+* `width`: relative to parent box
+* `font-size`: relative to parent base font size (em)
+
+## Colors
+
+1. Keywords: `red`, `black`, `white` (165 keywords)
+2. hex values: `#1234EF`
+3. `rgb()`, `hsl()` function (hsl for hue, saturation, lightness)
+4. with alpha: `rgba()`, `hsla()`
+5. `opacity` (0 to 1.0)
+
+## Functions
+
+* `rgb()`, `hsla()`
+* `rotate()`, `translate()`, `calc()`, `url()`
+ 
