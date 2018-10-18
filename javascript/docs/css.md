@@ -156,3 +156,14 @@ Calculate specificity score by accumulate selectors' weights
 2. Hundred: id selector
 3. Ten: class selector, attribute selector, pseudo-class selector
 4. One: element selector or pseudo-element selector
+
+## Inheritance
+
+* Some property values applied to an element will be inherited by that element's children, and some won't.
+* Which properties are inherited by default and which aren't is largely down to common sense.
+* Four property values:
+  1. `inherit`
+  2. `initial`: browser default or inherit
+  3. `unset`: natural value
+  4. `revert`: uesr css or user agent style
+* Special property `all` which can be used to apply the value to all properties at once
