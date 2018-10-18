@@ -167,3 +167,32 @@ Calculate specificity score by accumulate selectors' weights
   3. `unset`: natural value
   4. `revert`: uesr css or user agent style
 * Special property `all` which can be used to apply the value to all properties at once
+
+## Box Model
+
+The content is represented in box model which has serveral attributes:
+1. `width`, `height` (`max-width`, `max-height`, `min-width`, `min-height`)
+2. `padding`: inner margin
+3. `border`: (thickness, style, color)
+4. `margin`: outer margin
+
+## Box Model Advanced
+
+* margin collapsing: Adjacent boxes' margin length is equal to the larger one
+* background-clip: What's the background box size like
+  * border-box (default)
+  * padding-box
+  * content-box
+* overflow: when the content is overflow to the box size
+  * auto: scroll
+  * hidden
+  * visible (default)
+* box-sizing: Can be changed to `border-box`
+* outline: border like, but draw on top of the box without changing the size of the box
+
+## Types of CSS boxes
+
+`display` property control the type of box
+1. block (default)
+2. inline: flows with the document's text, break if too long
+3. inline-block: like inline, but never break when width too long
