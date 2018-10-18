@@ -29,7 +29,7 @@
 
 1. simple (by type or class or id)
 2. attribute
-3. pseudo-clases: mouse hover, checked, first child, etc
+3. pseudo-classes: mouse hover, checked, first child, etc
 4. combinators
 5. multiple selectors: seperate by comma, reuse rulesets
 
@@ -138,3 +138,21 @@ Find class elements in certain state, such as
 * `rgb()`, `hsla()`
 * `rotate()`, `translate()`, `calc()`, `url()`
  
+## Casecade Algorithm
+
+Indicate the orders of CSS rules matter. 
+
+What selectors win out depends on 3 factors:
+1. importance: marked with `!important` which will always win over all others (never use it!)
+2. specifity: a measure of how specific a selector is
+3. source order:  later rules will win over earlier rules
+
+Mixing is based on rules' properties, not the entire rules.
+
+### Specificity Calculate
+
+Calculate specificity score by accumulate selectors' weights
+1. Thousand: inside a `style` attribute
+2. Hundred: id selector
+3. Ten: class selector, attribute selector, pseudo-class selector
+4. One: element selector or pseudo-element selector
