@@ -1,0 +1,16 @@
+#date {
+    color: #8cef8c;
+    font-family: 'Orbitron';
+    background-color: black;
+}
+
+.time {
+    font-size: 150%;
+    display: inline;
+}
+
+.millsec {
+    font-size: 80%;
+    display: inline;
+    padding-left: .2em;
+}
