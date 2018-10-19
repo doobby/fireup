@@ -196,3 +196,11 @@ The content is represented in box model which has serveral attributes:
 1. block (default)
 2. inline: flows with the document's text, break if too long
 3. inline-block: like inline, but never break when width too long
+
+## Debug CSS
+
+CSS is a permissive language. The browser simply ingores errors in CSS.
+
+There're two tools for debugging CSS:
+1. Browser's developer tools: DOM Inspector, CSS Editor
+2. CSS validator: https://jigsaw.w3.org/css-validator
